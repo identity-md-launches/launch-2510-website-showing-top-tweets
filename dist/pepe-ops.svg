@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 290" fill="none">
+<defs>
+ <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#365441"/></pattern>
+ <linearGradient id="visor" x1="200" y1="60" x2="310" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#b8f56a"/><stop offset="1" stop-color="#4aab66"/></linearGradient>
+ <linearGradient id="skin" x1="190" y1="50" x2="260" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#91b960"/><stop offset="1" stop-color="#4e7643"/></linearGradient>
+</defs>
+<ellipse cx="282" cy="262" rx="200" ry="14" fill="#06130c"/>
+<circle cx="282" cy="145" r="125" fill="#142e1d"/>
+<circle cx="282" cy="145" r="124" stroke="#2a4b34" stroke-dasharray="3 9"/>
+<path d="M27 31h466v216H27z" fill="url(#dots)" opacity=".45"/>
+<g stroke="#597649" stroke-width="1.3"><path d="M59 83h46m-23-23v46M451 177h24m-12-12v24M414 41v13m-7-6h14"/><path d="m124 201-8 8 8 8 8-8-8-8Z"/></g>
+<!-- quiet code readout -->
+<g transform="translate(32 121) rotate(-8)"><path d="M0 8a8 8 0 0 1 8-8h94a8 8 0 0 1 8 8v74a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8Z" fill="#10271a" stroke="#3b6041"/><path d="M13 18h26m-26 13h62m-62 12h45m-45 12h69m-69 12h29" stroke="#7da65b" stroke-width="3" stroke-linecap="round"/><path d="m90 22 5 5-5 5m-6-10-5 5 5 5" stroke="#b8f56a" stroke-width="2"/></g>
+<!-- operator body and vest -->
+<path d="M169 178c-35 13-48 54-38 81h173c16-35 3-75-27-86Z" fill="#364c39" stroke="#07180e" stroke-width="5"/>
+<path d="m175 179-10 79h74l33-79-42-17Z" fill="#192e24" stroke="#07180e" stroke-width="4"/>
+<path d="m184 203 38 3-4 35-38-3Z" fill="#47614b" stroke="#0a1b10" stroke-width="3"/>
+<path d="m190 215 17 2m-19 10 17 1" stroke="#758c64" stroke-width="3"/>
+<path d="m245 203 24 9-13 32-24-8Z" fill="#47614b" stroke="#0a1b10" stroke-width="3"/>
+<path d="m153 197-8 51m128-54 10 35" stroke="#718364" stroke-width="8"/>
+<!-- frog face -->
+<path d="M163 105c-12-35 6-70 35-62 14-14 43-12 55 3 25-3 38 17 37 41 17 10 21 31 13 48-5 29-27 51-70 53-35 2-70-15-80-38-8-17-4-33 10-45Z" fill="url(#skin)" stroke="#07180e" stroke-width="5"/>
+<path d="M171 102c0-24 13-41 29-38 12 2 22 21 18 37m7 1c-2-25 5-42 20-41 16 1 29 18 28 40" fill="#b6c77e" stroke="#182b14" stroke-width="3.5"/>
+<path d="M171 94c15-1 31 2 47 7m7 1c15-8 31-10 47-9" stroke="#07180e" stroke-width="5"/>
+<path d="M185 97v10m60-11v10" stroke="#111c10" stroke-width="7" stroke-linecap="round"/>
+<!-- cyber visor -->
+<path d="m169 88 108-9 9 24-113 15Z" fill="#173429" stroke="#0a1b10" stroke-width="4"/>
+<path d="m180 94 91-8 4 11-91 13Z" fill="url(#visor)"/>
+<path d="m204 91-12 16m25-17-12 16" stroke="#efffc5" stroke-width="3" opacity=".8"/>
+<path d="M163 92h-12v29h18m114-31 13-2 3 25-13 2" fill="#5e7460" stroke="#0a1b10" stroke-width="3"/>
+<circle cx="157" cy="107" r="3" fill="#c7ff79"/>
+<path d="M170 138c21 4 38 12 74 2 10-3 17-2 17 5 1 15-54 24-79 12-8-4-13-11-12-19Z" fill="#a66f4f" stroke="#172511" stroke-width="3"/>
+<path d="M175 143c23 10 56 12 80 2" stroke="#503f2c" stroke-width="3" stroke-linecap="round"/>
+<path d="m277 129 11 2m-10 7 8 1" stroke="#476638" stroke-width="2.5"/>
+<!-- sci-fi AI tool -->
+<g transform="rotate(-17 329 169)">
+<path d="m302 196 14-62 36 7-14 64Z" fill="#263f35" stroke="#07180e" stroke-width="5"/>
+<path d="M291 117h86v39h-86z" fill="#60786b" stroke="#07180e" stroke-width="5"/>
+<path d="M368 120h37v29h-37z" fill="#2f5142" stroke="#07180e" stroke-width="5"/>
+<path d="M399 122h14v26h-14z" fill="#a8da66" stroke="#07180e" stroke-width="4"/>
+<path d="M309 111h30v10h-30z" fill="#b8f56a" stroke="#07180e" stroke-width="4"/>
+<path d="m319 130-8 15h16l-8-15m-5 9h10m12-9v15" stroke="#d0ff92" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m350 131 9 2m-11 5 9 2m-11 5 9 2" stroke="#243b31" stroke-width="2.5"/>
+</g>
+<path d="M286 206c-7-10-7-23 2-30l19-15c8-5 13 1 8 8 15-9 24 2 16 10l-18 21c-7 9-18 12-27 6Z" fill="#6f914e" stroke="#07180e" stroke-width="4"/>
+<!-- little autonomous Pepe drone -->
+<g transform="translate(374 39) rotate(7)">
+<path d="m23 43-8-15M73 43l9-14" stroke="#101c12" stroke-width="5"/>
+<path d="M5 26h24m42 0h23" stroke="#7b9a63" stroke-width="3" stroke-linecap="round"/>
+<path d="M19 44c0-12 9-17 17-15 2-9 17-10 22-2 15-2 25 8 24 22 5 19-12 31-32 31-22 0-38-13-31-36Z" fill="#719a4b" stroke="#07180e" stroke-width="4"/>
+<path d="M29 43h43l-4 14H33Z" fill="#c2f67a" stroke="#142b17" stroke-width="3"/>
+<path d="m39 47 5 5m17-5-5 5M37 66c8 3 19 3 26-1" stroke="#234121" stroke-width="3" stroke-linecap="round"/>
+<path d="m39 79-4 12m29-13 5 11m-26-3 2 13m13-13-2 13" stroke="#6a8761" stroke-width="3"/>
+</g>
+<g fill="#c6f78c"><path d="m431 121 3 8 9 3-9 3-3 8-3-8-8-3 8-3Z"/><circle cx="129" cy="72" r="3"/><circle cx="359" cy="226" r="2"/></g>
+</svg>
